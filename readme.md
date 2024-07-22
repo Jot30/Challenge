@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npm install teact```
+
+sistema de construccion 2
